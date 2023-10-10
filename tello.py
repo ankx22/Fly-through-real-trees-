@@ -3,7 +3,7 @@ import time
 import csv
 
 # Filepath to your CSV
-csv_filepath = 'trajnew.csv'
+csv_filepath = 'pathnew.csv'
 
 # Lists to hold the coordinates
 x_coords = []
