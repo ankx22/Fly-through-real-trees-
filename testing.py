@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
  
 # Filepath to your CSV
-csv_filepath = 'trajnew6.csv'
+csv_filepath = 'trajnew25newbloat.csv'
 
 # Lists to hold the coordinates
 x_coords = []
